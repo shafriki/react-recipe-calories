@@ -1,9 +1,8 @@
-{
-    "recipes": [
+ [
       {
         "recipe_id": 1,
         "recipe_name": "Grilled Chicken with Basil",
-        "recipe_image": "https://ibb.co.com/vPnWXgy",
+        "recipe_image": "https://i.ibb.co.com/N1c2WJT/vecteezy-the-art-of-food-where-taste-meets-creativity-50684699.jpg",
         "short_description": "A flavorful grilled chicken dish with fresh basil and soy sauce.",
         "ingredients": [
           "550 g chicken",
@@ -18,7 +17,7 @@
       {
         "recipe_id": 2,
         "recipe_name": "Mushroom Risotto",
-        "recipe_image": "https://ibb.co.com/yg1fvyF",
+        "recipe_image": "https://i.ibb.co.com/yyjC4Gv/vecteezy-bowl-of-stir-fry-with-broccoli-and-red-peppers-46005719.jpg",
         "short_description": "A creamy mushroom risotto perfect for a cozy dinner.",
         "ingredients": [
           "400 g mushroom",
@@ -33,7 +32,7 @@
       {
         "recipe_id": 3,
         "recipe_name": "Avocado Salad",
-        "recipe_image": "https://ibb.co.com/mvf5h2N",
+        "recipe_image": "https://i.ibb.co.com/44GmvTR/vecteezy-mushroom-risotto-with-parsley-47278192.jpg",
         "short_description": "A refreshing salad with avocado, tomatoes, and a citrus dressing.",
         "ingredients": [
           "2 avocados",
@@ -48,7 +47,7 @@
       {
         "recipe_id": 4,
         "recipe_name": "Spaghetti Carbonara",
-        "recipe_image": "https://ibb.co.com/rFg8rPk",
+        "recipe_image": "https://i.ibb.co.com/TYZj3Xc/images.jpg",
         "short_description": "A classic Italian pasta with creamy sauce and pancetta.",
         "ingredients": [
           "200 g spaghetti",
@@ -63,7 +62,7 @@
       {
         "recipe_id": 5,
         "recipe_name": "Beef Stir Fry",
-        "recipe_image": "https://ibb.co.com/Gsh66PM",
+        "recipe_image": "https://i.ibb.co.com/1GmG4Mq/download-1.jpg",
         "short_description": "A quick stir fry with tender beef and colorful vegetables.",
         "ingredients": [
           "300 g beef strips",
@@ -78,7 +77,7 @@
       {
         "recipe_id": 6,
         "recipe_name": "Lemon Cheesecake",
-        "recipe_image": "https://ibb.co.com/VYqYkxS",
+        "recipe_image": "https://i.ibb.co.com/SQLjjvm/download.jpg",
         "short_description": "A zesty lemon-flavored cheesecake with a buttery biscuit base.",
         "ingredients": [
           "200 g cream cheese",
@@ -91,4 +90,4 @@
         "calories": "500 calories"
       }
     ]
-  }
+
