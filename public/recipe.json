@@ -1,0 +1,94 @@
+{
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Grilled Chicken with Basil",
+        "recipe_image": "https://ibb.co.com/vPnWXgy",
+        "short_description": "A flavorful grilled chicken dish with fresh basil and soy sauce.",
+        "ingredients": [
+          "550 g chicken",
+          "120 ml soy sauce",
+          "200 g basil leaf",
+          "50 g garlic",
+          "20 ml olive oil"
+        ],
+        "preparing_time": "30 min",
+        "calories": "320 calories"
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Mushroom Risotto",
+        "recipe_image": "https://ibb.co.com/yg1fvyF",
+        "short_description": "A creamy mushroom risotto perfect for a cozy dinner.",
+        "ingredients": [
+          "400 g mushroom",
+          "200 g arborio rice",
+          "100 ml white wine",
+          "50 g parmesan",
+          "500 ml vegetable broth"
+        ],
+        "preparing_time": "45 min",
+        "calories": "420 calories"
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Avocado Salad",
+        "recipe_image": "https://ibb.co.com/mvf5h2N",
+        "short_description": "A refreshing salad with avocado, tomatoes, and a citrus dressing.",
+        "ingredients": [
+          "2 avocados",
+          "100 g cherry tomatoes",
+          "1 lemon",
+          "30 g arugula",
+          "20 ml olive oil"
+        ],
+        "preparing_time": "15 min",
+        "calories": "210 calories"
+      },
+      {
+        "recipe_id": 4,
+        "recipe_name": "Spaghetti Carbonara",
+        "recipe_image": "https://ibb.co.com/rFg8rPk",
+        "short_description": "A classic Italian pasta with creamy sauce and pancetta.",
+        "ingredients": [
+          "200 g spaghetti",
+          "100 g pancetta",
+          "2 eggs",
+          "50 g parmesan",
+          "20 ml olive oil"
+        ],
+        "preparing_time": "25 min",
+        "calories": "600 calories"
+      },
+      {
+        "recipe_id": 5,
+        "recipe_name": "Beef Stir Fry",
+        "recipe_image": "https://ibb.co.com/Gsh66PM",
+        "short_description": "A quick stir fry with tender beef and colorful vegetables.",
+        "ingredients": [
+          "300 g beef strips",
+          "100 g bell peppers",
+          "50 g onions",
+          "30 ml soy sauce",
+          "10 ml sesame oil"
+        ],
+        "preparing_time": "20 min",
+        "calories": "450 calories"
+      },
+      {
+        "recipe_id": 6,
+        "recipe_name": "Lemon Cheesecake",
+        "recipe_image": "https://ibb.co.com/VYqYkxS",
+        "short_description": "A zesty lemon-flavored cheesecake with a buttery biscuit base.",
+        "ingredients": [
+          "200 g cream cheese",
+          "100 g sugar",
+          "100 g digestive biscuits",
+          "50 g butter",
+          "1 lemon"
+        ],
+        "preparing_time": "60 min",
+        "calories": "500 calories"
+      }
+    ]
+  }
