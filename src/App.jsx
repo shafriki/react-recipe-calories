@@ -5,7 +5,7 @@ import OurRecipe from "./components/OurRecipe";
 
 const App = () => {
   return (
-    <div>
+    <div className="max-w-screen-xl mx-auto ">
       <Header></Header>
       <Banner></Banner>
       <OurRecipe></OurRecipe>
