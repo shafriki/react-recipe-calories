@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const Recipe = () => {
+const Recipe = ({addRecipeToQueue}) => {
     
     const [recipes, setRecipes] = useState([]);
     useEffect(()=> {
@@ -31,11 +31,11 @@ const Recipe = () => {
                     ))}
                   </ul>
                   <div className="flex gap-4">
-                  <div className="flex items-center text-xs md:text-base"><i className="fa-solid fa-stopwatch"></i> <p>{recipe.preparing_time}</p> </div>
-                  <div className="flex items-center text-xs md:text-base"><i className="fa-solid fa-fire-flame-curved"></i> <p>{recipe.calories}</p> </div>
+                  <div className="flex items-center text-xs md:text-base gap-1"><i className="fa-solid fa-stopwatch"></i> <p>{recipe.preparing_time}</p> </div>
+                  <div className="flex items-center text-xs md:text-base gap-1"><i className="fa-solid fa-fire-flame-curved"></i> <p>{recipe.calories}</p> </div>
                   </div>
                   <div className="card-actions justify-start">
-                    <button className="btn rounded-full bg-[#0BE58A] mt-2 text-xs md:text-base">Want to Cook</button>
+                    <button onClick={() => addRecipeToQueue(recipe)} className="btn rounded-full bg-[#0BE58A] px-8 mt-2 text-xs md:text-base">Want to Cook</button>
                   </div>
                 </div>
               </div>
